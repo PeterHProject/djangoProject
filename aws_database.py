@@ -1,3 +1,7 @@
+#Python project library to read excel, generate create SQL script and update to enter into database. Class also includes create HTML table 
+#from data to visualise on website
+
+
 import psycopg2
 import pandas
 
