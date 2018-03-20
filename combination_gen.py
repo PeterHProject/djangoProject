@@ -1,3 +1,8 @@
+#Project that reconciles data by creating combinations of financial ledger data to agree to reconciling items
+#in a report
+
+
+
 import pandas as pd
 import itertools
 from bisect import bisect_left
