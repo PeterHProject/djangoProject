@@ -1,3 +1,5 @@
+#used to clean data that can't be read as numeric by excel 
+
 import pandas
 
 class DataFrameClean:
