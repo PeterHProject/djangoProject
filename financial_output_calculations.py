@@ -1,3 +1,6 @@
+#Python class to read excel data containing financial bond details, creates cash flow, calculates EIR
+#and then calculated amortised cost for a given date
+
 import pandas as pd
 from datetime import datetime
 
